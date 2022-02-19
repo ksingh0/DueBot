@@ -12,7 +12,7 @@ from asyncio import sleep
 from sqlalchemy import null
 import random
 
-TOKEN='OTQ0Mjk2MDQ1MzM1MTc1MjM4.Yg_iOQ.SQBPdSISOnByLmVed-_2IGivlQM'
+TOKEN='********'
 data =[]
 # x
 client = commands.Bot(command_prefix="-")
